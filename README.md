@@ -1,2 +1,2 @@
-# alvin_shvr
+# GAME_2048_PHYTHON
 Game 2028
